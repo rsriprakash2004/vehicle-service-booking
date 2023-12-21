@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+html,
+body {
+  height: 100%;
+  margin-bottom: 60px;
+}
+
+button,
+a {
+  cursor: pointer;
+}
